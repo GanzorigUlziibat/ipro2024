@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Хөвсгөл Эко Ресорт",
+    "image": "https://www.visitmongolia.com/images/6.jpg",
+    "rating": 4.9,
+    "reviews": 1200
+  },
+  {
+    "id": "2",
+    "name": "Горхи-Тэрэлж Ресорт",
+    "image": "https://www.visitmongolia.com/images/8.jpg",
+    "rating": 4.7,
+    "reviews": 980
+  },
+  {
+    "id": "3",
+    "name": "Гүн нуурын амралт",
+    "image": "https://www.visitmongolia.com/images/10.jpg",
+    "rating": 4.6,
+    "reviews": 750
+  },
+  {
+    "id": "4",
+    "name": "Тэрхийн цагаан нуур ресорт",
+    "image": "https://www.visitmongolia.com/images/12.jpg",
+    "rating": 4.8,
+    "reviews": 850
+  },
+  {
+    "id": "5",
+    "name": "Хангайн амралтын газар",
+    "image": "https://www.visitmongolia.com/images/14.jpg",
+    "rating": 4.7,
+    "reviews": 920
+  },
+  {
+    "id": "6",
+    "name": "Орхоны хүрхрээ ресорт",
+    "image": "https://www.visitmongolia.com/images/16.jpg",
+    "rating": 4.9,
+    "reviews": 1100
+  },
+  {
+    "id": "7",
+    "name": "Говь Лодж",
+    "image": "https://www.visitmongolia.com/images/18.jpg",
+    "rating": 4.6,
+    "reviews": 670
+  },
+  {
+    "id": "8",
+    "name": "Булган уул амралт",
+    "image": "https://www.visitmongolia.com/images/20.jpg",
+    "rating": 4.7,
+    "reviews": 780
+  },
+  {
+    "id": "9",
+    "name": "Хустайн байгалийн цогцолбор",
+    "image": "https://www.visitmongolia.com/images/22.jpg",
+    "rating": 4.8,
+    "reviews": 1020
+  },
+  {
+    "id": "10",
+    "name": "Баян-Өлгий уулын бааз",
+    "image": "https://www.visitmongolia.com/images/26.jpg",
+    "rating": 4.9,
+    "reviews": 1300
+  }
+]

@@ -29,6 +29,16 @@ const BottomRouter = () => {
           ),
         }}
       ></Tabs.Screen>
+      <Tabs.Screen
+        name="Api"
+        options={{
+          headerTitle: "API page header",
+          title: "API",
+          tabBarIcon: () => (
+            <AntDesign size={28} name="checkcircle" color="aqua" />
+          ),
+        }}
+      ></Tabs.Screen>
     </Tabs>
   );
 };
